@@ -24,3 +24,16 @@ use example in csaid_example.ipynb
 | Avg. relevant statutes | 1.76 | 7.16 |
 
 *Summary statistics of the datasets used in this study. Statute length refers to the character length of statutory articles, and "relevant statutes" denotes the number of gold-annotated applicable statutes per query.*
+
+## Cite
+```
+@misc{li2026legalmalrmultiagentqueryunderstandingllmbased,
+      title={LegalMALR:Multi-Agent Query Understanding and LLM-Based Reranking for Chinese Statute Retrieval}, 
+      author={Yunhan Li and Mingjie Xie and Gaoli Kang and Zihan Gong and Gengshen Wu and Min Yang},
+      year={2026},
+      eprint={2601.17692},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2601.17692}, 
+}
+```
